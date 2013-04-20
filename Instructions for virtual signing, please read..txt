@@ -1,0 +1,3 @@
+I guess the easiest way for proving that we all accessed the repository is for all of us to create a .txt file
+with your name and minutes3, (e.g. 'seanmayminutes3.txt.') I'll commit all the changes to the git hub site
+while the dropbox account saves the changes anyway. So read the minutes and make a text file.
